@@ -9,6 +9,7 @@
 
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/UE3.gif)
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/U12.png)
+
 2. 角色控制与动画系统
 创建角色 (CreateCharacter) 并整合 IK Rig 和 IK Retargeter，实现精准的骨骼动画控制。
 使用 Animation Blueprint 和 Blend Space 1D/2D，流畅切换角色行走、奔跑、瞄准等动画。
@@ -17,6 +18,7 @@
 
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/UE4.gif)
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/U13.png)
+
 3. 物理与战斗系统
 实现 武器拾取、装备、换弹，并通过 Skeletal Socket 绑定武器位置。
 基于 Projectile Movement Component 设计子弹轨迹，支持 Hitscan 和 Projectile 弹道类型。
@@ -26,6 +28,7 @@
 
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/UE5.gif)
 ![](https://github.com/EVAN-REN/UnrealProject/blob/main/Image/U11.png)
+
 4. 交互与 UI
 创建 Widget UI，包括游戏菜单、准星、生命值、弹药计数等界面。
 实现 准星交互（Set Crosshairs）并支持 Zoom 瞄准缩放，增强 FPS 体验。
